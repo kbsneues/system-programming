@@ -19,3 +19,4 @@ LEX(또는 2021001.exe) test.asm 로 실행을 해서 출력이 위와 같이 �
 (3) 교재 Figure 2.1(p.45)의 예제 프로그램을 example.asm 으로 저장한 후 실행해 볼 것(단 statement 의 주석을 모두 제거할 것)
 
 <h2>3. 결과 </h2>
+<img src = "https://github.com/kbsneues/blackJack-Game/assets/66941439/fe64d85d-9fd7-4b77-8d30-b56487d32c24" />
