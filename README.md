@@ -15,5 +15,5 @@ Token 을 생성하여 화면과 출력화일(output.txt)에 출력한다.
 (1) 실행 프로그램 이름은 학번(7 자리).out (예,2021001.exe 또는 2021001.out 등)으로
 하며 입력으로 받을 assembly 프로그램 이름은 command line 으로 받는다. 출력파일 명은 output.txt 로 한다<br>
 (2) 우선 위 2.4 의 예제를 test.asm 으로 만든다. 
-LEX(또는 2021001.exe) test.asm 로 실행을 해서 출력이 위와 같이 나오는가를 확인한다. 
+LEX(또는 2021001.exe) test.asm 로 실행을 해서 출력이 위와 같이 나오는가를 확인한다.<br>
 (3) 교재 Figure 2.1(p.45)의 예제 프로그램을 example.asm 으로 저장한 후 실행해 볼 것(단 statement 의 주석을 모두 제거할 것)
